@@ -1,0 +1,54 @@
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.deps.json
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.dll
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.pdb
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.csproj.AssemblyReference.cache
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.GeneratedMSBuildEditorConfig.editorconfig
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfoInputs.cache
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfo.cs
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.csproj.CoreCompileInputs.cache
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.dll
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\refint\whatever.dll
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.pdb
+C:\なじみ\bluelock\whatever\whatever\obj\Debug\net6.0-windows\ref\whatever.dll
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\char.bin
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\dicrc
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\matrix.bin
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\README.txt
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\sys.dic
+C:\なじみ\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\unk.dic
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\char.bin
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\dicrc
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\matrix.bin
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\README.txt
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\sys.dic
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\dic\unk.dic
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.deps.json
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.dll
+E:\2023 cleanup\code\bluelock\whatever\whatever\bin\Debug\net6.0-windows\whatever.pdb
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.csproj.AssemblyReference.cache
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfoInputs.cache
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfo.cs
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.csproj.CoreCompileInputs.cache
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.dll
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\refint\whatever.dll
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\whatever.pdb
+E:\2023 cleanup\code\bluelock\whatever\whatever\obj\Debug\net6.0-windows\ref\whatever.dll
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\char.bin
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\dicrc
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\matrix.bin
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\README.txt
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\sys.dic
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\dic\unk.dic
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\whatever.deps.json
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\whatever.dll
+C:\GITHUB\compedium\some-kanji-frequency\whatever\bin\Debug\net6.0-windows\whatever.pdb
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.csproj.AssemblyReference.cache
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfoInputs.cache
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.AssemblyInfo.cs
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.csproj.CoreCompileInputs.cache
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.dll
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\refint\whatever.dll
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\whatever.pdb
+C:\GITHUB\compedium\some-kanji-frequency\whatever\obj\Debug\net6.0-windows\ref\whatever.dll

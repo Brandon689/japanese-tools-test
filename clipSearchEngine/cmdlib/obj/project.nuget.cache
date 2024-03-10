@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5XCqlMetJanaMRzRqNY0EBy64wEEosXrAPaUS4kH0HR82kzvatqEn1Qd22zIHzxhC/szST+3Z5hXCbns1o4Cw==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\compedium\\clipSearchEngine\\cmdlib\\cmdlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\subtitlesparser\\1.5.1\\subtitlesparser.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

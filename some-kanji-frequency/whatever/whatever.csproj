@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Catalyst" Version="1.0.31087" />
+    <PackageReference Include="Catalyst.Models.English" Version="1.0.30952" />
+    <PackageReference Include="JikanDotNet" Version="2.2.0" />
+    <PackageReference Include="MeCab.DotNet" Version="0.0.40" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="SubtitlesParser" Version="1.5.1" />
+    <PackageReference Include="Wacton.Desu" Version="6.2.0" />
+  </ItemGroup>
+
+</Project>

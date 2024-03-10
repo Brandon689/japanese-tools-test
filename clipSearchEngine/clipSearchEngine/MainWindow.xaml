@@ -1,0 +1,48 @@
+﻿<Window x:Class="clipSearchEngine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clipSearchEngine"
+        mc:Ignorable="d"   
+        Title="MainWindow" Height="600" Width="700" Top="50" Left="760"><!--WindowStyle="None" AllowsTransparency="True">-->
+    <!--<Window.Background>
+        <SolidColorBrush Opacity="0.65" Color="Black"/>
+    </Window.Background>-->
+    <Window.InputBindings>
+        <KeyBinding Key="Return" Command="{Binding Enter}"/>
+    </Window.InputBindings>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <!--<TextBox x:Name="src" Width="200" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center"/>-->
+        <TextBox x:Name="src" Text="{Binding t, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="200" Height="30"/>
+        <ListView SelectedItem="{Binding m, Mode=OneWayToSource}" Grid.Row="1" x:Name="oko" ItemsSource="{Binding o}">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <EventSetter Event="MouseUp" Handler="ListViewItem_PreviewMouseLeftButtonDown" />
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <!--<RowDefinition/>-->
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--<TextBlock Text="{Binding lines}"/>-->
+                        <local:CustomFE Height="20" Finder="{Binding find}" MyProperty="{Binding linesSpl}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Button Click="Button_Click" Content="cok"/>
+            <TextBox x:Name="janai"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="TextRomanjiSpeech.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextRomanjiSpeech"
+        xmlns:Ex="clr-namespace:FlexTextLib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1100" Background="#111">
+    <Grid>
+        <ScrollViewer Grid.Row="1" x:Name="scroller" ScrollChanged="scroller_ScrollChanged">
+            <Ex:FrameEl HorizontalAlignment="Stretch" x:Name="nai"
+                        
+                        MouseHighlightText="True" 
+                            Foreground="White"
+                            HighlightBackground="#222" 
+                            Background="#111111" 
+                            HighlightColor="Lime"
+                            Orientation="False"
+                            Margin="50"
+                        />
+
+
+            <!--<wander:TextElement FontSize="48" 
+                            MouseHighlightText="True" 
+                            Foreground="White"
+                            HighlightBackground="#111" 
+                            Background="#111111" 
+                            HighlightColor="Red"
+                            Orientation="False"
+                            Margin="50"
+                            x:Name="wanderer"/>-->
+
+        </ScrollViewer>
+    </Grid>
+</Window>

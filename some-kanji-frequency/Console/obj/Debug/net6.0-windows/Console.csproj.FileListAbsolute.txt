@@ -1,0 +1,273 @@
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\char.bin
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\dicrc
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\matrix.bin
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\README.txt
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\sys.dic
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\unk.dic
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.exe
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.deps.json
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.runtimeconfig.json
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.pdb
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Catalyst.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Catalyst.Models.English.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\JikanDotNet.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\MeCab.DotNet.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\MessagePack.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Mosaik.Core.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Disposables.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLite-net.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\SubtitlesParser.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\whatever.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\whatever.pdb
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.AssemblyReference.cache
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.AssemblyInfoInputs.cache
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.AssemblyInfo.cs
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.CoreCompileInputs.cache
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.CopyComplete
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.dll
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\refint\Console.dll
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.pdb
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.genruntimeconfig.cache
+C:\なじみ\bluelock\whatever\Console\obj\Debug\net6.0-windows\ref\Console.dll
+C:\なじみ\bluelock\whatever\Console\bin\Debug\net6.0-windows\Wacton.Desu.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\char.bin
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\dicrc
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\matrix.bin
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\README.txt
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\sys.dic
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\dic\unk.dic
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.exe
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.deps.json
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.runtimeconfig.json
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Console.pdb
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Catalyst.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Catalyst.Models.English.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\JikanDotNet.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\MeCab.DotNet.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\MessagePack.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Mosaik.Core.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Nito.Disposables.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLite-net.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\SubtitlesParser.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\Wacton.Desu.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\whatever.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\bin\Debug\net6.0-windows\whatever.pdb
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.AssemblyReference.cache
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.AssemblyInfoInputs.cache
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.AssemblyInfo.cs
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.CoreCompileInputs.cache
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.csproj.CopyComplete
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\refint\Console.dll
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.pdb
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\Console.genruntimeconfig.cache
+E:\2023 cleanup\code\bluelock\whatever\Console\obj\Debug\net6.0-windows\ref\Console.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\char.bin
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\dicrc
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\matrix.bin
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\README.txt
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\sys.dic
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\dic\unk.dic
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Console.exe
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Console.deps.json
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Console.runtimeconfig.json
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Console.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Console.pdb
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Catalyst.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Catalyst.Models.English.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\JikanDotNet.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\MeCab.DotNet.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\MessagePack.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Mosaik.Core.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Context.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Coordination.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Oop.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.AsyncEx.Tasks.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.Cancellation.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.Collections.Deque.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Nito.Disposables.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SQLite-net.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\SubtitlesParser.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\Wacton.Desu.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\whatever.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\bin\Debug\net6.0-windows\whatever.pdb
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.csproj.AssemblyReference.cache
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.AssemblyInfoInputs.cache
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.AssemblyInfo.cs
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.csproj.CoreCompileInputs.cache
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.csproj.CopyComplete
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\refint\Console.dll
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.pdb
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\Console.genruntimeconfig.cache
+C:\GITHUB\compedium\some-kanji-frequency\Console\obj\Debug\net6.0-windows\ref\Console.dll

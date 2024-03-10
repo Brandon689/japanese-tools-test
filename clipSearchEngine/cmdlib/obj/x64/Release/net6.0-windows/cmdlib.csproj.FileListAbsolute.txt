@@ -1,0 +1,12 @@
+C:\なじみ\に\clipSearchEngine\cmdlib\bin\x64\Release\net6.0-windows\cmdlib.deps.json
+C:\なじみ\に\clipSearchEngine\cmdlib\bin\x64\Release\net6.0-windows\cmdlib.dll
+C:\なじみ\に\clipSearchEngine\cmdlib\bin\x64\Release\net6.0-windows\cmdlib.pdb
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.csproj.AssemblyReference.cache
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.AssemblyInfoInputs.cache
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.AssemblyInfo.cs
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.csproj.CoreCompileInputs.cache
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.dll
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\refint\cmdlib.dll
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\cmdlib.pdb
+C:\なじみ\に\clipSearchEngine\cmdlib\obj\x64\Release\net6.0-windows\ref\cmdlib.dll

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Omoidasu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Omoidasu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="790" Width="1000" Background="#222" Foreground="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="15"/>
+        </Grid.RowDefinitions>
+        <TextBlock Background="#222" Foreground="White" VerticalAlignment="Center" TextAlignment="Center" x:Name="front" FontSize="80" FontFamily="M PLUS 2"/>
+        <TextBlock Grid.Row="1" Background="#222" Foreground="White" VerticalAlignment="Center" TextAlignment="Center" x:Name="back" FontSize="28" FontFamily="Arial"/>
+
+        <TextBlock Grid.Row="2" x:Name="c"/>
+
+        <MediaElement x:Name="MediaPlay" Volume="0" Width="400" VerticalAlignment="Top" HorizontalAlignment="Left" Source="C:\Users\Brandon Lazenby\Videos\Fire Force Season 2 - Opening ｜ SPARK-AGAIN [xLGtT8WuidM].mp4"/>
+
+        <local:Overlay x:Name="shoo"/>
+
+
+    </Grid>
+</Window>
